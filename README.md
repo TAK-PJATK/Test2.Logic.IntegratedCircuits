@@ -431,9 +431,6 @@ After this long digression, we can come back to our problem of finding a valuati
 
 For those interested: Just deciding, given a Boolean function, whether there exists a valuation leading to a true result, known in computer science as the satisfiability problem, belongs to the class of NP-complete problems, for which we know no way of solving in polynomial time.
 
-Certainly! Here's the corrected content in Markdown format suitable for GitHub, along with recreated schematics for the logic gates using LaTeX:
-
-```markdown
 # Integrated Circuits
 
 ## Theoretical Grounds for Constructing the Computer Processor
@@ -541,5 +538,3 @@ Here are the schematics for some of the most common logic gates:
   \text{NOR} \\
   \end{array}
   $$
-```
-
